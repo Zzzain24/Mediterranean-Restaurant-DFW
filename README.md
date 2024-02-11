@@ -12,5 +12,5 @@ A recent graduate from Texas A&M University, passionate about food and entrepren
 8. Social Media and Online Reviews: Analysis of social media sentiment and online reviews of existing restaurants to gauge customer satisfaction and preferences.
 
 ## Data and Colab
-The Google Colab contains the data analysis done for this project as well as findings. All data sets utlized with exception to one are sourced in this github, as well as images used in the Colab notebook.
+The Google Colab notebook contains the data analysis done for this project as well as findings. All data sets utlized with exception to one are sourced in this github, as well as images used in the Colab notebook.
 
