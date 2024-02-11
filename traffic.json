@@ -1,0 +1,51 @@
+{
+	"analysis": {
+		"day_raw": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			20,
+			40,
+			50,
+			60,
+			65,
+			80,
+			95,
+			100,
+			95,
+			80,
+			45,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"epoch_analysis": 1703319672,
+	"forecast_updated_on": "2023-12-23T08:21:13.304509+00:00",
+	"status": "OK",
+	"venue_info": {
+		"venue_address": "4913 Ohio Garden Rd River Oaks, TX 76114 United States",
+		"venue_id": "ven_51706c6f754a5f686d356452596f5431527034743464374a496843",
+		"venue_name": "Nish! Mediterranean Grill"
+	},
+	"window": {
+		"day_window": "Saturday 6AM until Sunday 5AM",
+		"day_window_end_int": 6,
+		"day_window_end_txt": "Sunday",
+		"day_window_start_int": 5,
+		"day_window_start_txt": "Saturday",
+		"time_window_end": 5,
+		"time_window_end_12h": "5AM",
+		"time_window_end_ix": 23,
+		"time_window_start": 6,
+		"time_window_start_12h": "6AM",
+		"time_window_start_ix": 0
+	}
+}
