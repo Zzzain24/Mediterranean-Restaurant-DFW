@@ -14,3 +14,5 @@ A recent graduate from Texas A&M University, passionate about food and entrepren
 ## Data and Colab
 The Google Colab notebook contains the data analysis done for this project as well as findings. All data sets utlized with exception to one are sourced in this github, as well as images used in the Colab notebook.
 
+Missing dataset link: https://www.dallasopendata.com/Services/Restaurant-and-Food-Establishment-Inspections-Octo/dri5-wcct/about_data
+
